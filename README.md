@@ -16,7 +16,7 @@ mvn clean install -DskipTest=true -U
 ```
 <dependency>
     <groupId>com.songxc</groupId>
-    <artifactId>crm-metrics</artifactId>
+    <artifactId>springboot-prometheus-metrics</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 </dependency>
 ```

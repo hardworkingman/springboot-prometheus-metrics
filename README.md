@@ -10,7 +10,7 @@
 ### How to use
 前提：服务已集成prometheus监控  
 ```
-mvn clean install -DskipTest=true -U
+mvn clean install -DskipTests=true -U
 ```
 引入依赖：  
 ```
